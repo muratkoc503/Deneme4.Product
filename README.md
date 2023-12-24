@@ -4,7 +4,8 @@ Backend (Deneme4.Product):
 - Dependency Injection, Migration ile birlikte yazıldı.
 - Entity, Repostory ve Controller dosyaları ile sql'e crud işlemleri yapılmatadır. Repository dosyası ile Controller dosyası sql işlemlerinden soyutlanmıştır.
 
-![swagger](https://github.com/muratkoc503/Deneme4.Product/assets/75611653/e040c708-9291-40c3-89ae-02f67397f8ab)
+![Ekran Alıntısı](https://github.com/muratkoc503/Deneme4.Product/assets/75611653/9a2edce1-9f01-4999-a2d9-dc6aea17c0eb)
+
 
 UI (Deneme.UI):
 MVC mantığı ile yazılmıştır. Deneme4.Product API kullanılmıştır.
