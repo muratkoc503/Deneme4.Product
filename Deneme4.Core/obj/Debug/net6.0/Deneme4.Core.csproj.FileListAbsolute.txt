@@ -1,0 +1,11 @@
+C:\Users\murat\source\repos\Deneme4.Product\Deneme4.Core\bin\Debug\net6.0\Deneme4.Core.deps.json
+C:\Users\murat\source\repos\Deneme4.Product\Deneme4.Core\bin\Debug\net6.0\Deneme4.Core.dll
+C:\Users\murat\source\repos\Deneme4.Product\Deneme4.Core\bin\Debug\net6.0\Deneme4.Core.pdb
+C:\Users\murat\source\repos\Deneme4.Product\Deneme4.Core\obj\Debug\net6.0\Deneme4.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\source\repos\Deneme4.Product\Deneme4.Core\obj\Debug\net6.0\Deneme4.Core.AssemblyInfoInputs.cache
+C:\Users\murat\source\repos\Deneme4.Product\Deneme4.Core\obj\Debug\net6.0\Deneme4.Core.AssemblyInfo.cs
+C:\Users\murat\source\repos\Deneme4.Product\Deneme4.Core\obj\Debug\net6.0\Deneme4.Core.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\Deneme4.Product\Deneme4.Core\obj\Debug\net6.0\Deneme4.Core.dll
+C:\Users\murat\source\repos\Deneme4.Product\Deneme4.Core\obj\Debug\net6.0\refint\Deneme4.Core.dll
+C:\Users\murat\source\repos\Deneme4.Product\Deneme4.Core\obj\Debug\net6.0\Deneme4.Core.pdb
+C:\Users\murat\source\repos\Deneme4.Product\Deneme4.Core\obj\Debug\net6.0\ref\Deneme4.Core.dll
